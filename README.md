@@ -2,8 +2,6 @@
 
 ### [Download From Here](https://vpm.dreadscripts.com/)
 
-![image](https://i.imgur.com/hkCTMNf.gif)
-
 ## Features
 - Allows resetting the pose of a humanoid animator.
 - Choose which properties to reset: position, rotation, and scale.
